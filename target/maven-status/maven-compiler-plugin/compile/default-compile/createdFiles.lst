@@ -1,0 +1,5 @@
+edu/hubu/wxmall/service/CategoryService.class
+edu/hubu/wxmall/entity/Category.class
+edu/hubu/wxmall/service/impl/CategoryServiceImpl.class
+edu/hubu/wxmall/dao/CategoryDao.class
+edu/hubu/wxmall/ctrl/CategoryCtrl.class
